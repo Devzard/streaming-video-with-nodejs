@@ -7,3 +7,5 @@ After downloading the project make sure to install all the dependencies before r
 in your terminal and then press enter.
 
 <code>npm start</code> to run the application.
+
+Live project at : https://devstreaming.herokuapp.com
